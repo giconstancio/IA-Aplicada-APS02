@@ -5,7 +5,7 @@ Repositório oficial da APS 2 da disciplina de Inteligência Artificial Aplicada
 **Docente:** Prof. Paulo Cesar Dias Lima
 
 ## Integrantes
-- Felipy Yuske Odigo
+- Felipy Yuske Ogido
 - Fernando Junior Vaciski de Camargo
 - Giovana Nunes Constancio Donato
 - Graciele Miki Sazaka
