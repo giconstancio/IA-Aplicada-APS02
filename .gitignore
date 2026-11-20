@@ -1,0 +1,20 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Pacote de entrega (enviado pelo Moodle, não versionado)
+*.zip
+
+# Arquivos temporários do Word
+~$*.docx
