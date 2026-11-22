@@ -1,0 +1,4 @@
+Viagem,Rota,Carga (t),Excesso (t),Distância (passos)
+1,Depósito -> B2 -> Depósito,55,0,8
+2,Depósito -> B6 -> B4 -> Depósito,110,0,26
+3,Depósito -> B1 -> B5 -> B3 -> Depósito,105,0,22

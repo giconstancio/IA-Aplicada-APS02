@@ -1,0 +1,6 @@
+Método,Fitness / distância
+Ótimo exato (programação dinâmica),56.0
+GA - execução principal (SEED),56.0
+GA - média de 10 execuções,56.2
+GA - pior das 10 execuções,58.0
+Busca aleatória (mesmo nº de avaliações),56.0
